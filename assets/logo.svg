@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Antigravity Code</title>
+  <desc id="desc">A dark rounded square with teal AG lettering.</desc>
+  <rect width="128" height="128" rx="26" fill="#0B1220"/>
+  <rect x="6" y="6" width="116" height="116" rx="21" fill="none" stroke="#14B8A6" stroke-width="4"/>
+  <text x="64" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-3" fill="#2DD4BF">AG</text>
+</svg>
