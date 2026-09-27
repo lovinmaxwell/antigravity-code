@@ -8,7 +8,14 @@
     "email": "lovinmaxwell@gmail.com"
   },
   "license": "MIT",
-  "keywords": ["antigravity", "agy", "google", "gemini", "agent", "cli"],
-  "logo": "assets/logo.svg",
+  "keywords": [
+    "antigravity",
+    "agy",
+    "google",
+    "gemini",
+    "agent",
+    "cli"
+  ],
+  "logo": "assets/logo.png",
   "skills": "./skills/"
 }
